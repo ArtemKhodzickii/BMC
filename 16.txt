@@ -1,0 +1,16 @@
+function in anf: 1+X2X3+X1X2X3+X4+ and true table: 1111110100000010
+function in anf: 1+X3+X1X2X3+X4+ and true table: 1111000100001110
+function in anf: 1+X3+X1X3+X2X3+X1X2X3+X4+ and true table: 1111011100001000
+function in anf: 1+X1X2+X1X2X3+X4+ and true table: 1110111100010000
+function in anf: 1+X1X2+X3+X2X3+X1X2X3+X4+ and true table: 1110001100011100
+function in anf: 1+X1X2+X3+X1X3+X1X2X3+X4+ and true table: 1110010100011010
+function in anf: 1+X2+X3+X1X3+X1X2X3+X4+ and true table: 1100011100111000
+function in anf: 1+X2+X1X2+X3+X1X3+X2X3+X1X2X3+X4+ and true table: 1101010100101010
+function in anf: 1+X1+X1X2X3+X4+ and true table: 1010101101010100
+function in anf: 1+X1+X1X3+X2X3+X1X2X3+X4+ and true table: 1010110101010010
+function in anf: 1+X1+X3+X2X3+X1X2X3+X4+ and true table: 1010011101011000
+function in anf: 1+X1+X1X2+X2X3+X1X2X3+X4+ and true table: 1011100101000110
+function in anf: 1+X1+X1X2+X1X3+X1X2X3+X4+ and true table: 1011111101000000
+function in anf: 1+X1+X1X2+X3+X1X2X3+X4+ and true table: 1011010101001010
+function in anf: 1+X1+X2+X1X3+X1X2X3+X4+ and true table: 1001110101100010
+function in anf: 1+X1+X2+X1X2+X1X3+X2X3+X1X2X3+X4+ and true table: 1000111101110000
